@@ -1,3 +1,3 @@
-module github.com/lujiajing1126/golang-pkg-pcre
+module github.com/lujiajing1126/go-pcre
 
 go 1.21
